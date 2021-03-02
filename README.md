@@ -7,9 +7,9 @@ I chose to the shoe amazon dataset. The point of the analysis is determining if 
 ### Results
 There are 895 vine reviews and 4366021 non-vine reviews.
 
-<img width="470" alt="Screen Shot 2021-03-01 at 6 24 36 PM" src="https://user-images.githubusercontent.com/72036895/109582444-6c564c00-7abb-11eb-92bc-e98f2aaa0acc.png">
-
 <img width="401" alt="Screen Shot 2021-03-01 at 6 24 42 PM" src="https://user-images.githubusercontent.com/72036895/109582478-7bd59500-7abb-11eb-81ce-027d11b3966e.png">
+
+<img width="470" alt="Screen Shot 2021-03-01 at 6 24 36 PM" src="https://user-images.githubusercontent.com/72036895/109582444-6c564c00-7abb-11eb-92bc-e98f2aaa0acc.png">
 
 There are 462 5-star Vine reviews and 2639473 5-star non-vine reviews.
 
