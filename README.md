@@ -6,6 +6,8 @@ I chose to the shoe amazon dataset. The point of the analysis is determining if 
 
 ### Results
 There are 895 vine reviews and 4366021 non-vine reviews.
+<img width="469" alt="Screen Shot 2021-03-01 at 6 22 34 PM" src="https://user-images.githubusercontent.com/72036895/109582307-2a2d0a80-7abb-11eb-9733-bb1132cb653a.png">
+
 There are 462 5-star Vine reviews and 2639473 5-star non-vine reviews.
 
 The percentage of vine reviews that were 5 star was 0.017%
